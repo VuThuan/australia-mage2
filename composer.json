@@ -23,19 +23,5 @@
         "psr-4": {
             "Fontis\\Australia\\": ""
         }
-    },
-    "repositories": {
-        "auspost-api-php": {
-                "type": "vcs",
-                "url": "https://github.com/vuthuan/auspost-api-php.git"
-        },
-        "bpay-ref-generator": {
-                "type": "vcs",
-                "url": "https://github.com/vuthuan/bpay-ref-generator.git"
-        },
-        "customergroupaccess-mage2": {
-                "type": "vcs",
-                "url": "https://github.com/vuthuan/customergroupaccess-mage2.git"
-        }
     }
 }
