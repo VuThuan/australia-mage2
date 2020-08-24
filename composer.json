@@ -12,7 +12,6 @@
         "magento/module-store": "*",
         "magento/module-shipping": "*"
     },
-    "minimum-stability": "dev",
     "autoload": {
         "files": [
             "registration.php"
