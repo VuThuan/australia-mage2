@@ -5,9 +5,9 @@
     "license": "OSL-3.0",
     "require": {
         "php":  "~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1.0|~7.1.3|~7.2.0|~7.3.0|~7.4.0",
-        "fontis/auspost-api-php": "~2.0.3",
-        "fontis/bpay-ref-generator": "~1.0.4",
-        "fontis/customergroupaccess-mage2": "~1.0.7",
+        "fontis/auspost-api-php": "dev-master",
+        "fontis/bpay-ref-generator": "dev-master",
+        "fontis/customergroupaccess-mage2": "dev-master",
         "magento/framework": "100.0.*|100.1.*|101.0.*|102.0.*|103.0.*",
         "magento/module-checkout": "100.0.*|100.1.*|101.0.*|102.0.*|103.0.*",
         "magento/module-directory": "100.0.*|100.1.*|101.0.*|102.0.*|103.0.*",
@@ -21,20 +21,6 @@
         ],
         "psr-4": {
             "Fontis\\Australia\\": ""
-        }
-    },
-    "repositories": {
-        "auspost-api-php": {
-                "type": "vcs",
-                "url": "https://github.com/vuthuan/auspost-api-php.git"
-        },
-        "bpay-ref-generator": {
-                "type": "vcs",
-                "url": "https://github.com/vuthuan/bpay-ref-generator.git"
-        },
-        "customergroupaccess-mage2": {
-                "type": "vcs",
-                "url": "https://github.com/vuthuan/customergroupaccess-mage2.git"
         }
     }
 }
