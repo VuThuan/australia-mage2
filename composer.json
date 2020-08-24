@@ -5,9 +5,9 @@
     "license": "OSL-3.0",
     "require": {
         "php":  "~7.1.0|~7.1.3|~7.2.0|~7.3.0|~7.4.0",
-        "fontis/auspost-api-php": "dev-master",
-        "fontis/bpay-ref-generator": "dev-master",
-        "fontis/customergroupaccess-mage2": "dev-master",
+        "fontis/auspost-api-php": "2.0.5",
+        "fontis/bpay-ref-generator": "1.0.6",
+        "fontis/customergroupaccess-mage2": "1.1.0",
         "magento/framework": "*",
         "magento/module-checkout": "*",
         "magento/module-directory": "*",
