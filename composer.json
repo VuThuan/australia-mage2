@@ -9,7 +9,7 @@
         "fontis/bpay-ref-generator": "dev-master",
         "fontis/customergroupaccess-mage2": "dev-master",
         "magento/framework": "100.0.*|100.1.*|101.0.*|102.0.*|103.0.*",
-        "magento/module-checkout": "100.0.*|100.1.*|101.0.*|102.0.*|103.0.*",
+        "magento/module-checkout": "*",
         "magento/module-directory": "100.0.*|100.1.*|101.0.*|102.0.*|103.0.*",
         "magento/module-payment": "100.0.*|100.1.*|101.0.*|102.0.*|103.0.*",
         "magento/module-store": "100.0.*|100.1.*|101.0.*|102.0.*|103.0.*",
